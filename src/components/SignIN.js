@@ -57,7 +57,7 @@ export default function SignUP() {
                     Sign IN
                   </Dialog.Title>
                   <div className="mt-2">
-                    <div class="w-full mt-6 mr-0 mb-0 ml-0 relative space-y-8">
+                    <div class="w-full mt-6 mr-0 mb-0 ml-0 relative space-y-8"> 
                       <div class="relative">
                         <p class="bg-white pt-0 pr-2 pb-0 pl-2 -mt-3 mr-0 mb-0 ml-2 font-medium text-gray-600 absolute">
                           Email
