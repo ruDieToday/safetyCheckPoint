@@ -7,7 +7,7 @@ function header(){
   <div class="border py-3 px-6">
     <div class="flex justify-between">
       <div class="flex items-center">
-        <span class="ml-2 text-3xl font-bold text-amber-300">R U Die?</span>
+        <span class="ml-2 text-3xl font-bold text-amber-300">Safety Check Point</span>
       </div>
       <div class="flex gap-x-4">
       <SignUP/>

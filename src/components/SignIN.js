@@ -20,7 +20,7 @@ export default function SignUP() {
           onClick={openModal}
           className="rounded-md bg-black/20 px-4 py-2 text-sm font-medium text-white hover:bg-black/30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/75"
         >
-          Sign IN
+          Sign In
         </button>
       </div>
 
@@ -54,7 +54,7 @@ export default function SignUP() {
                     as="h3"
                     className="text-lg font-medium leading-6 text-gray-900"
                   >
-                    Sign IN
+                    Sign In
                   </Dialog.Title>
                   <div className="mt-2">
                     <div class="w-full mt-6 mr-0 mb-0 ml-0 relative space-y-8"> 
